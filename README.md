@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Next.jsで作成したプロジェクトをAWS Amplifyを使用してSSGアップとしてデプロイするテスト
+SSG appの場合、package.jsonの記述が異なるので注意。
 
 ## Getting Started
 
