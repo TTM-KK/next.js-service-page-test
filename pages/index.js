@@ -16,7 +16,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <div>
-          新パートナーズ・ランディングページ
+          新パートナーズ・ランディングページ（ベーシック認証導入後のテスト）
         </div>
 
         <p className={styles.description}>
